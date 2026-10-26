@@ -1,0 +1,9 @@
+26 Okt 09:47 - ketuk Google 1x, dibukain 33.5ms, jalanan aman 0% loss
+26 Okt 09:53 - Google 33.5ms vs Cloudflare 44.6ms, pemenang: Google lebih cepat
+=== RONDA Mon Oct 26 09:57:06 WIB 2026 ===
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=114 time=46.4 ms
+64 bytes from 1.1.1.1: icmp_seq=1 ttl=53 time=42.7 ms
+---
+[10:43 26/10] Pos 2 aman, lampu mati 1
+[10:46 26/10] Pos 2 aman, lampu mati 1
+[10:55 26/10] Pos 2 aman, lampu mati 1
